@@ -7,3 +7,6 @@ This is my fourth change in lcoal
 this is the fifth change in cloud
 
 Feature -1 change
+Added
+Added 
+Added
