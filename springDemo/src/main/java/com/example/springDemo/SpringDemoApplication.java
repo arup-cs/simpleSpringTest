@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
+import com.example.springDemo.practice.PracticeMainPackage;
 import com.example.springDemo.template.MainPackage;
 
 @SpringBootApplication
@@ -18,6 +19,9 @@ public class SpringDemoApplication {
 		SpringApplication.run(SpringDemoApplication.class, args);
 		MainPackage mainPack = new MainPackage();
 		mainPack.run();
+		
+		PracticeMainPackage practiceMainPack = new PracticeMainPackage();
+		practiceMainPack.runPractice();
 			
 	}
 
