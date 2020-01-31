@@ -1,7 +1,7 @@
-package com.example.springDemo.practice;
+package com.example.springDemo.demo;
 
-import com.example.springDemo.template.MobilePhone;
-import com.example.springDemo.template.Tablet;
+import com.example.springDemo.demoClasses.MobilePhone;
+import com.example.springDemo.demoClasses.Tablet;
 
 public class PracticeMainPackage {
 	public void runPractice() {

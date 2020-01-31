@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
-import com.example.springDemo.practice.PracticeMainPackage;
-import com.example.springDemo.template.MainPackage;
+import com.example.springDemo.demo.PracticeMainPackage;
+import com.example.springDemo.demoClasses.MainPackage;
 
 @SpringBootApplication
 //@EnableAutoConfiguration

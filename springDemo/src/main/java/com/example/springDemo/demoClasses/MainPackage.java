@@ -1,4 +1,4 @@
-package com.example.springDemo.template;
+package com.example.springDemo.demoClasses;
 
 public class MainPackage {
 	public void run() {
